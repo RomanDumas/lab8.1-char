@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR8.1 Char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2762F9-222B-4D59-A09D-6ED8E817A786}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\hp\\source\\repos\\LR8.1 Char\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC2762F9-222B-4D59-A09D-6ED8E817A786}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90385E64-B85A-4255-87A2-1A2E26A9FDC3}|LR8.1 Char\\LR8.1 Char.vcxproj|C:\\Users\\hp\\source\\repos\\LR8.1 Char\\LR8.1 Char\\LR8.1char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90385E64-B85A-4255-87A2-1A2E26A9FDC3}|LR8.1 Char\\LR8.1 Char.vcxproj|solutionrelative:LR8.1 Char\\LR8.1char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR8.1 Char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR8.1 Char\\UnitTest1\\UnitTest1.cpp*",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T08:59:46.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR8.1char.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR8.1 Char\\LR8.1 Char\\LR8.1char.cpp",
+              "RelativeDocumentMoniker": "LR8.1 Char\\LR8.1char.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR8.1 Char\\LR8.1 Char\\LR8.1char.cpp",
+              "RelativeToolTip": "LR8.1 Char\\LR8.1char.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T12:24:06.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
